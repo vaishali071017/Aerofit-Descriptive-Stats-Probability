@@ -31,6 +31,8 @@ Miles:	The average number of miles the customer expects to walk/run each week
 
 •	The KP781 treadmill is having advanced features that sell for $2,500
 
+To view the code please click [here](https://github.com/vaishali071017/Aerofit-Descriptive-Stats-Probability/blob/main/AEROFIT_CASE_STUDY.ipynb)
+
 💡 **Insights & Recommendations**
 
 **Insights**
