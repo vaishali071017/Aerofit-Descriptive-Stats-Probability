@@ -1,5 +1,5 @@
 # Aerofit-Descriptive-Stats-Probability
-![image](https://github.com/user-attachments/assets/e15d409b-452d-41ec-87ad-5509821676ce)
+![image](https://github.com/user-attachments/assets/23ede2de-2344-4829-8148-102268e45f67)
 
 **About Aerofit**
 
